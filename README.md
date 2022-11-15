@@ -56,13 +56,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [MUI](https://mui.com/)
 - [React Slick](https://github.com/akiran/react-slick)
 
-<h6>
-  <br />
-  <p>
-   <a href="https://dribbble.com/naiflaramadhan"><img src="https://cdn.dribbble.com/users/5147050/avatars/normal/cd7b217b7d0cde417ef7d64ac123363d.png" alt="Alfian Ramadhan" width="52" height="52"></a>
-  </p>
-  <p>
-  Designed by
-  <p> 
-  <a href="https://dribbble.com/naiflaramadhan">Alfian Ramadhan</a>
-</h6>
